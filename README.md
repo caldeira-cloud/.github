@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/caldeira-cloud/caldeira-cloud/blob/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caldeira-cloud&layout=compact)
